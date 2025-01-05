@@ -1,0 +1,1 @@
+<img alt="kirby eat all food" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNqZXd2bDM5bnQzN2xwNG1rNmptMzVuMXhtN3ZkN3owbG9uNnp2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ev3alRsskWA0/giphy.webp" width="100%" />
